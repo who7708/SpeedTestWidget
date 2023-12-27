@@ -2,7 +2,5 @@
 .idea/
 build/
 gradle/
-gradle.properties
 local.properties
 SpeedTestWidget.iml
-.idea/workspace.xml
